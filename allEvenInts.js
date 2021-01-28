@@ -1,4 +1,4 @@
-// 1 Given an array of integers, return true if all numbers found in the array are even, otherwise return false
+// Given an array of integers, return true if all numbers found in the array are even, otherwise return false
 
 const allEvenInts = (arrayOfInts) =>{
   let allEven = true
